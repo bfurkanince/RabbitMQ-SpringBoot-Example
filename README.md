@@ -1,4 +1,4 @@
-İnstall and Run RabbitMq Server
+İnstall and Run RabbitMq Server :
   Brew must installed on mac
   brew update run command on terminal 
   brew install rabbitmq run command on terminal 
